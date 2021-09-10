@@ -1,0 +1,20 @@
+https://cosmocode.io/how-to-connect-selenium-to-an-existing-browser-that-was-opened-manually/
+
+https://sites.google.com/a/chromium.org/chromedriver/getting-started
+
+important for code.
+
+https://stackoverflow.com/questions/40005611/count-number-of-tabs-open-in-selenium-python
+
+https://stackoverflow.com/questions/28715942/how-do-i-switch-to-the-active-tab-in-selenium
+
+https://www.google.co.in/search?q=selenium+chrome+options+python&sxsrf=ALeKk00lsHEf0KAkn9nhcgmkdeP8OsPyPQ%3A1629796903671&ei=J7okYc26KMrZz7sPuNCkyAo&oq=selenium+chrome+optio&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCAAQgAQQhwIQFDIKCAAQgAQQhwIQFDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDqAhAnOgQIIxAnOgUIABCRAjoICAAQgAQQsQM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToICC4QsQMQgwE6BAguEEM6BAgAEEM6CwguEIAEELEDEIMBOgcILhCxAxBDOg0IABCABBCHAhCxAxAUOgcIABCxAxBDOgcIIxCxAhAnOgcIABCxAxAKOgcIABCABBAKOgQIABANOgYIABANEB5KBAhBGABQlJMBWNTTAWDq2gFoBXABeACAAc4BiAG1H5IBBjAuMjMuMpgBAKABAbABCsABAQ&sclient=gws-wiz
+
+https://stackoverflow.com/questions/46416852/get-urls-of-all-open-tabs-using-python
+
+https://wccftech.com/how-to/how-to-move-multiple-chrome-tabs-to-a-new-window/
+
+https://www.guru99.com/python-dictionary-append.html
+
+To start chrome in debug mode
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenium"
